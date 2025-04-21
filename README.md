@@ -1,2 +1,4 @@
 # PruebaRepositorio
-Mi primer repositorio de GitHub
+Mi primer repositorio de GitHub 
+
+Autor: Jose Luis Quispe Huaman
